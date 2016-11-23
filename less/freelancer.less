@@ -96,6 +96,9 @@ header {
 			font-size: 1.25em;
 			font-weight: 300;
 		}
+		.quote {
+			font-size: 1.25em;
+		}
 	}
 }
 
@@ -109,7 +112,7 @@ header {
 			.name {
 				font-size: 4.75em;
 			}
-			.skills {
+			.skills, .quote {
 				font-size: 1.75em;
 			}
 		}
@@ -411,6 +414,19 @@ footer {
 	    	outline: none;
 	    }
     }
+}
+
+.quote {
+	quotes: '\201c' '\201d';
+	font-style: italic;
+	font-weight: 200;
+	font-family: serif;
+}
+.quote:before {
+	content: open-quote;
+}
+.quote:after {
+	content: close-quote;
 }
 
 .portfolio-modal {
