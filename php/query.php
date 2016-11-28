@@ -8,8 +8,8 @@ function get_mysqli() {
 }
 
 
-function post_vote($mysqli, $weight=1) {
-  $sql_insert = 'INSERT INTO votes (address, weight) VALUES (\'default\');';
+function post_vote($mysqli) {
+  $sql_insert = 'INSERT INTO votes (address) VALUES (\'default\');';
   if (!$result = $mysqli->query($sql_insert)) {
 	mysqli_error($mysqli);  
  }
