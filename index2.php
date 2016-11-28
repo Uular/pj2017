@@ -49,7 +49,7 @@
                         <a href="#about">Juttu</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Yhteys</a>
+                        <a href="#vote">Äänestä</a>
                     </li>
                 </ul>
             </div>
