@@ -7,8 +7,9 @@ function get_mysqli() {
   return $mysqli;
 }
 
-function post_vote($mysqli) {
-  $sql_insert = 'INSERT INTO votes (address) VALUES (\'default\');';
+
+function post_vote($mysqli, $weight=1) {
+  $sql_insert = 'INSERT INTO votes (address, weight) VALUES (\'default\');';
   if (!$result = $mysqli->query($sql_insert)) {
 	mysqli_error($mysqli);  
  }
@@ -17,10 +18,10 @@ function post_vote($mysqli) {
 
 function get_votes($mysqli) {
   // mysqli_select_db($con, "pj2017");
-  $sql_query = 'SELECT voteId FROM votes;';
+  $sql_query = 'SELECT count(weight) FROM votes;';
   $result = $mysqli->query($sql_query);
   if ($result) {
-    return mysqli_num_rows($result);
+    return $result->fetch_row()[0];
     $result->close();
   } else {    
     die('MYSQL query failed: ' . mysqli_error($mysqli));
