@@ -18,7 +18,7 @@ function post_vote($mysqli, $weight=1) {
 
 function get_votes($mysqli) {
   // mysqli_select_db($con, "pj2017");
-  $sql_query = 'SELECT count(weight) FROM votes;';
+  $sql_query = 'SELECT sum(weight) FROM votes;';
   $result = $mysqli->query($sql_query);
   if ($result) {
     return $result->fetch_row()[0];
