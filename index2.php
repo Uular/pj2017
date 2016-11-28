@@ -63,7 +63,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/runtu.jpg" alt="">
                     <div class="intro-text">
                         <span class="name">Uula "Runtu" Ranta</span>
                         <span class="quote">Ei mikään jarruntu tahi jarruula</span>
@@ -92,7 +92,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="img/graafikko.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -230,7 +230,7 @@
                             </li>
                             -->
                             <li>
-                                <a href="https://www.facebook.com/PokkinenAntti" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                                <a href="http://www.otit.fi/~loilollo/Dattu/Dattu3.gif" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li>
                               <a href="https://github.com/Uular" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
@@ -275,10 +275,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Graafikko</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/graafikko" class="img-responsive img-centered" alt="">
+                            <p>Runtu tehny hommia OTiT:n ja OTY:n graafikkona, shieeee.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
