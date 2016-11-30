@@ -103,7 +103,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 portfolio-item">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -113,19 +114,20 @@
                         <img src="img/portfolio/mib.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-6 portfolio-item">
+                <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/lakki.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/sosterv.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 portfolio-item">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -135,14 +137,14 @@
                         <img src="img/portfolio/pelimanne.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-6 portfolio-item">
+                <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/poke.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/poke.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -299,8 +301,8 @@
                         <div class="modal-body">
                             <h2>Sosiaali- ja terveysministeri 2015</h2>
                             <hr class="star-primary">
-                            <img src="img/lakki.png" class="img-responsive img-centered" alt="">
-                            <p>Entäs lakki? - homo</p>
+                            <img src="img/portfolio/sosterv.png" class="img-responsive img-centered" alt="">
+                            <p>"Juomat loppuivat kesken" -Ei kukaan Uulan järkkäämissä bileissä</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -345,7 +347,7 @@
                         <div class="modal-body">
                             <h2>Hallitseva pokémon-mestari</h2>
                             <hr class="star-primary">
-                            <img src="img/poke.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/poke.png" class="img-responsive img-centered" alt="">
                             <p>Mutta entäs vyö, missä se on?</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
