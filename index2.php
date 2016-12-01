@@ -81,12 +81,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/runtu.jpg" alt="">
                     <div class="intro-text">
-                        <span class="name">Uula "Runtu" Ranta</span>
-                        <span class="quote">Ei mikään jarruntu tahi jarruula</span>
-                        <hr class="star-light" />
-                        <span class="skills">Nakkikone - Legendaarinen Nalle Mestari - Kiltakonkari</span>
+			    <span class="name">Uula "Runtu" Ranta</span>
+			    <img class="img-responsive" src="img/runtu.jpg" alt="">
+				<span class="quote">Ei mikään jarruntu tahi jarruula</span>
+				<hr class="star-light" />
+				<span class="skills">Nakkikone - Legendaarinen Nalle Mestari - Kiltakonkari</span>
                     </div>
                 </div>
             </div>

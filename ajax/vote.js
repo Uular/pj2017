@@ -3,7 +3,6 @@ function postVote(url, callback) {
   xmlHttp.onreadystatechange = function() {
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
       callback(xmlHttp.responseText);
-    else callback("0")
   }
   xmlHttp.open("POST", url, true);
   xmlHttp.send(null);
@@ -14,8 +13,8 @@ function getVote(url, callback) {
   xmlHttp.onreadystatechange = function() {
     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
       callback(xmlHttp.responseText);
-    else callback("0")
   }
   xmlHttp.open("GET", url, true);
   xmlHttp.send(null);
 }
+
