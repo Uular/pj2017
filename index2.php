@@ -343,10 +343,9 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Hallitseva pokémon-mestari</h2>
-                            <hr class="star-primary">
+                            <h2>Ja paaljon muuta</h2><hr class="star-primary">
                             <img src="img/portfolio/poke.png" class="img-responsive img-centered" alt="">
-                            <p>Mutta entäs vyö, missä se on?</p>
+                            <p>OTiTin toimittaja, hovikuvaaja, graafikko 2013, sostervsihteeri, graafikko, hovikuvaaja 2014, toimittaja, hovikuvaaja 2015, operaattori, www-vastaava, sostervsihteeri 2016. OTYn graafikko 2014, hovikuvaaja 2015, Pahkin&nbsp;valokujaaja&nbsp;2014. "On kai näitä pari takana"</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
