@@ -67,7 +67,7 @@
                         <a href="#about">Juttu</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#vote">Äänestä</a>
+                        <a href="#vote">Ääni</a>
                     </li>
                 </ul>
             </div>
@@ -160,12 +160,15 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Jos kysyt niin ei tarvitse tietää.</p>
+                <div class="col-md-4">
+                    <p>Kaikki alkoi eräänä syyskuun iltana 1992. Jo minuutteja syntymänsä jälkeen, pojan kuultiin parkuvan "PEEJIIIIIII!". Vanhemmilla riitti kestettävää seuraavien kuukausien ajan, kun pieni fuksi yritti sanella tulevaisuuttaan. Putkien operointi korvakäytäviin auttoi vuosia, kunnes korva&shy;tu&shy;leh&shy;dukseksi luultu synnynnäinen sairaus puhkesi jälleen, pojan saapuessa yliopistoon tietotekniikan fuksina.</p>
                 </div>
-                <div class="col-lg-4">
-                    <p></p>
+                <div class="col-md-4">
+		    <p>Fuksi tapasi ihmisiä, ja kuuli kerrottavan <em>"hallituksesta"</em>. Kävi sitseillä, ja näki miten vanhat puheenjohtajat johtivat puheen lisäksi laulua ja juomista. "Oispa peejii", fuksi totesi. Fuksista tuli Teekkari, ja pääsi hallitukseen. "Oispa peejii", Teekkari mietti edelleen. Yrittänyttä ei laiteta. Teekkarin harmiksi muut veivät hommat nenän edestä, ja hän päätyi odottamaan hetkeään. Toinen vuosi hallituksessa, sivussa töitä. Mikäs tässä.</p>
                 </div>
+		<div class="col-md-4">
+		    <p>Sitä seuraava vuosi hallituksetta alkoikin tuntua haikealta. "Oispa peejii", tuli taas ajatus. Taas mennään, saatana. Ja nythän mennään eikä meinata. Tehdään tarjous josta kilta ei voi kieltäytyä. Parhaat bileet, paras meno, paras hallitus, paras peejii. Homma pyörii, kun tietää mitä tekee. Ei kompromisseja, pelkkää toimintaa. Näin se vain on tehtävä. Tämä nakkileipomo suuntaa täyttä häkää kohti voitontanssia. </p>
+		</div>
             </div>
         </div>
     </section>
