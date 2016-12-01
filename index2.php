@@ -98,13 +98,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Juttuja mitä Runtu ossaa</h2>
+                    <h2>Mitä v***ua Uula?</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-md-4 col-md-offset-2 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -114,7 +113,7 @@
                         <img src="img/portfolio/mib.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-md-4 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -126,8 +125,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-2"></div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-md-4 col-md-offset-2 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -137,7 +135,7 @@
                         <img src="img/portfolio/pelimanne.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-md-4 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -157,16 +155,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Yleistä Uulasta</h2>
+                    <h2>Kuka v***n Uula?</h2>
                     <hr class="star-light">
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Paras ja sillee. Hyvii juttui joopajoo. Elämäntarina ja kaikki vaan lol.</p>
+                    <p>Jos kysyt niin ei tarvitse tietää.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Ja vielä vähäse. Lorem ipsum jne sebu on neekeri erkka on homo. Ei mittää.</p>
+                    <p></p>
                 </div>
             </div>
         </div>
