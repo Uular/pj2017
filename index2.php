@@ -142,7 +142,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/poke.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/nakkikone.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -347,7 +347,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Ja paaljon muuta</h2><hr class="star-primary">
-                            <img src="img/portfolio/poke.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/nakkikone.png" class="img-responsive img-centered" alt="">
                             <p>OTiTin toimittaja, hovikuvaaja, graafikko 2013, sostervsihteeri, graafikko, hovikuvaaja 2014, toimittaja, hovikuvaaja 2015, operaattori, www-vastaava, sostervsihteeri 2016. OTYn graafikko 2014, hovikuvaaja 2015, Pahkin&nbsp;valokujaaja&nbsp;2014. "On kai näitä pari takana"</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
