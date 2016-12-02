@@ -354,8 +354,8 @@
 			        <br />Toimittaja, hovikuvaaja 2015
 				<br />Operaattori, www-vastaava, sos.terv.-sihteeri 2016
 				<br />OTYn graafikko 2014, hovikuvaaja 2015
-				<br />Pahkin&nbsp;valokujaaja&nbsp;2014
-				<br />"Ohan näitä pari takana" 2016</p>
+				<br />Pahkin&nbsp;valokujaaja&nbsp;2014</p>
+			    <p>"Ohan näitä pari takana" 2016</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
