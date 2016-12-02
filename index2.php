@@ -234,7 +234,7 @@
                                 <a href="http://www.otit.fi/~loilollo/Dattu/Dattu3.gif" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li>
-                              <a href="https://github.com/Uular" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                              <a href="https://github.com/Uular/pj2017" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                             </li>
                         </ul>
                     </div>
