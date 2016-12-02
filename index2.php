@@ -303,7 +303,8 @@
                             <h2>Sosiaali- ja terveysministeri 2015</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/sosterv.png" class="img-responsive img-centered" alt="">
-                            <p>"Juomat loppuivat kesken" -Ei kukaan Uulan järkkäämissä bileissä</p>
+			    <p><span class="quote">Juomat loppuivat kesken</span>
+				<br /><em>-Ei kukaan Uulan järkkäämissä bileissä</em></p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -326,7 +327,7 @@
                             <h2>Pelimanne 2016</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/pelimanne.png" class="img-responsive img-centered" alt="">
-                            <p>Eeppinen seremoniamestari ja lottomusiikin mestari.</p>
+                            <p>Eeppinen seremoniamestari, menestyksekäs sanoittaja ja lottomusiikin lisensiaatti.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -346,9 +347,15 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Ja paaljon muuta</h2><hr class="star-primary">
+                            <h2>Loputon nakkikone</h2><hr class="star-primary">
                             <img src="img/portfolio/nakkikone.png" class="img-responsive img-centered" alt="">
-                            <p>OTiTin toimittaja, hovikuvaaja, graafikko 2013, sostervsihteeri, graafikko, hovikuvaaja 2014, toimittaja, hovikuvaaja 2015, operaattori, www-vastaava, sostervsihteeri 2016. OTYn graafikko 2014, hovikuvaaja 2015, Pahkin&nbsp;valokujaaja&nbsp;2014. "On kai näitä pari takana"</p>
+                            <p>OTiTin toimittaja, hovikuvaaja, graafikko 2013
+			        <br />Sos.terv.-sihteeri, graafikko, hovikuvaaja 2014
+			        <br />Toimittaja, hovikuvaaja 2015
+				<br />Operaattori, www-vastaava, sos.terv.-sihteeri 2016
+				<br />OTYn graafikko 2014, hovikuvaaja 2015
+				<br />Pahkin&nbsp;valokujaaja&nbsp;2014
+				<br />"Ohan näitä pari takana" 2016</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
