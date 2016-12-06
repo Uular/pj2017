@@ -200,26 +200,23 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-<button onClick="postVote('ajax/votes.php', function(text){
-    document.getElementById('votes').innerHTML=text
-    document.getElementById('audioplayer').
- })" "type="button" class="btn btn-lg btn-primary">Äänestä, saat yllärin!</button>
+<button onClick="postVote('ajax/votes.php', function(text){document.getElementById('votes').innerHTML=text}); document.getElementById('audiocontainer').style.visibility='visible'; document.getElementById('audioplayer').play()" "type="button" class="btn btn-lg btn-primary">Äänestä, saat äänen!</button>
 
                </div>
             </div>
-           <div id="audioplayer" class="row" style="visibility:invisible">
-               <div class="col-lg-12 text-center">
+           <div id="audiocontainer" class="row" style="visibility:hidden">
+               <hr class="star-primary" />
+		<div class="col-lg-12 text-center">
                   <p>
-                     <em>PeeJii</em>
+                     Uula "Runtu" Ranta &mdash; <em>PeeJii</em>
                   </p>
-               <p>
-                   <audio src="https://ranta.org/music/peejii.mp3" />
-               </p>
-               <ul class="list-inline">
-                   <li>Sanoitus: Uula Ranta</li>
-                   <li>Sävellys: Juice Leskinen</li>
+                  <audio id="audioplayer" controls src="https://ranta.org/music/peejii.mp3"></audio>
+                  <ul class="list-inline">
                    <li>Kitara: Uula Ranta</li>
                    <li>Laulu: Uula Ranta</li>
+	           <li>Äänitys&miksaus: DJ Runtu</li>
+                   <li>Sanoitus: Uula Ranta</li>
+                   <li>Sävellys: Juice Leskinen</li>
                </ul>
                </div>
            </div>
