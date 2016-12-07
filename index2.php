@@ -210,7 +210,7 @@
                   <p>
                      Uula "Runtu" Ranta &mdash; <em>PeeJii</em>
                   </p>
-                  <audio id="audioplayer" controls src="https://ranta.org/music/peejii.mp3"></audio>
+                  <audio id="audioplayer" controls loop src="https://ranta.org/music/peejii.mp3"></audio>
                   <ul class="list-inline">
                    <li>Kitara: Uula Ranta</li>
                    <li>Laulu: Uula Ranta</li>
